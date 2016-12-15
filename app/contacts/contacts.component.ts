@@ -4,4 +4,4 @@ import {Component} from "@angular/core";
 This is a contacts component
 `
 })
-export class ContactComponent{}
+export class ContactsComponent{}
